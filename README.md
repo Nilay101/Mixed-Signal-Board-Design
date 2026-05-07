@@ -3,4 +3,4 @@
 
 ##Project Overview
 
-` So here i am with a new project working on Mixed Signal board and i would be recording my designs and undersatdning based on it and writing it down in this repo.`
+`So here i am with a new project working on Mixed Signal board and i would be recording my designs and undersatdning based on it and writing it down in this repo.`
