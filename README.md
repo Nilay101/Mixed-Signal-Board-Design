@@ -3,3 +3,6 @@
 
 ## Project Overview
 `This following project is a design of a Mixed Signal board design which consist of multipler perhiperals and communication protocols which is used by the microcontroller. In this project I have provided a design for Central Controller Board design.`
+
+## Selection of Components
+` I have started with a quite popular Microcontroller STM32F407. Its a 32 Bit ARM Corxtex-M4 opearting at 168 Mhz speed which has enough power to drive circuits around itself` 
