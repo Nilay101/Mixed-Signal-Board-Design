@@ -7,8 +7,7 @@
 ## Components and Interfaces requirements
 `1. Microcontroller and Debugger: 
 STM32F407 Controller with Debugger on STM32F103.`
-
 `2. Communication Interfaces:
 Ethernet (Transfer Speed: 2MB/s) 
-USB 2.0 o CAN Bus (Transfer Speed:
+USB 2.0, CAN Bus (Transfer Speed:
 1MB/s), UARTs`
