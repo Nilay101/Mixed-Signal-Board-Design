@@ -10,7 +10,7 @@ STM32F407 Controller with Debugger on STM32F103.
 2. Communication Interfaces:
 Ethernet (Transfer Speed: 2MB/s) 
 USB 2.0, CAN Bus (Transfer Speed:
-1MB/s), UARTs`
+1MB/s), UARTs
 
 ## 2.Pin-mapping using CubeMX
 
