@@ -12,6 +12,13 @@ Ethernet (Transfer Speed: 2MB/s)
 USB 2.0, CAN Bus (Transfer Speed:
 1MB/s), UARTs
 
+3. ADC
+24-bit ADC: ADS122C04IPW with external
+reference and clock, PGA 128, Sample Rate: 100SPS
+
+4. Motor Drivers
+DRV8701 motor Driver with Mosfet Bridge with ability to run 2 bi-directional motor with a power rating of 36W ( 12V, 3A)
+
 ## 2.Pin-mapping using CubeMX
 
 ## 3.
