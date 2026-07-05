@@ -5,7 +5,7 @@ This following project is a design of a Mixed Signal board design which consist 
 
 ## 1.Components and Interfaces requirements
 1. Microcontroller and Debugger: 
-STM32F407 Controller with Debugger on STM32F103.`
+STM32F407 Controller with Debugger on STM32F103.
 
 2. Communication Interfaces:
 Ethernet (Transfer Speed: 2MB/s) 
