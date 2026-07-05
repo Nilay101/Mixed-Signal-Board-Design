@@ -18,6 +18,8 @@ reference and clock, PGA 128, Sample Rate: 100SPS`
 * `Motor Drivers
 DRV8701 motor Driver with Mosfet Bridge with ability to run 2 bi-directional motor with a power rating of 36W (12V, 3A)`
 
+> [Physical specification]
+
 ## 2.Pin-mapping using CubeMX
 
 ## 3.
