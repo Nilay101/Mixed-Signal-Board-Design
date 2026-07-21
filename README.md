@@ -20,6 +20,6 @@ DRV8701 motor Driver with Mosfet Bridge with ability to run 2 bi-directional mot
 
 > [Physical specification]
 
-## 2.Pin-mapping using CubeMX
+## 2.Block Diagram
 
 ## 3.
