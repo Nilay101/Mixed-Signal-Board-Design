@@ -21,6 +21,7 @@ DRV8701 motor Driver with Mosfet Bridge with ability to run 2 bi-directional mot
 > [Physical specification]
 
 ## 2.Block Diagram
-![] (https://github.com/Nilay101/Mixed-Signal-Board-Design/blob/main/Images/Schematic%20Block.PNG?raw=true)
+![](https://github.com/Nilay101/Mixed-Signal-Board-Design/blob/6f48fad0da92dc2ec3374a7bc96cafcb16f029bb/Images/Schematic%20Block.PNG)
 
-## 3.
+## 3.Power Budget
+![](https://github.com/Nilay101/Mixed-Signal-Board-Design/blob/6f48fad0da92dc2ec3374a7bc96cafcb16f029bb/Images/Power%20Budget.PNG)
