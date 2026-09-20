@@ -1,5 +1,3 @@
-<img width="837" height="802" alt="image" src="https://github.com/user-attachments/assets/49cb68f4-f69c-4306-8219-5c115252337f" /># Mixed-Signal-Board-Design 
-
 ## Project Overview
 This following project is a design of a Mixed Signal board design which consist of multipler perhiperals and communication protocols which is used by the microcontroller, with built in ADC and microhpone peripherals. In this project I have provided a design for Central Controller Board design. This can be used for multiple applications such as controller board for autonomous vehicals, Robotics, Defense mechanism, Industrial Machines etc.
 
@@ -21,7 +19,7 @@ DRV8701 motor Driver with Mosfet Bridge with ability to run 2 bi-directional mot
 > [Physical specification]
 > Dimensions:
 > 75.00mm X 70.00mm
-> ![]()
+> ![](https://github.com/Nilay101/Mixed-Signal-Board-Design/blob/cea92cd5136b66ddd60f3f0f14ad82e4e045e4f8/Images/PhysicalDim.png)
 
 ## 2.Block Diagram
 ![](https://github.com/Nilay101/Mixed-Signal-Board-Design/blob/6f48fad0da92dc2ec3374a7bc96cafcb16f029bb/Images/Schematic%20Block.PNG)
