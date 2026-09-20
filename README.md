@@ -29,6 +29,13 @@ DRV8701 motor Driver with Mosfet Bridge with ability to run 2 bi-directional mot
 
 ## 4. Layer Stack
 ![](https://github.com/Nilay101/Mixed-Signal-Board-Design/blob/e964b2cd150cbb406f45dd411c188f347506faba/Images/Layer_Stack.png)
+`Layer 1 (Signal): Top routing and component placement`
+
+`Layer 2 (GND): Solid ground plane for return paths`
+
+`Layer 3 (VCC): Internal Power VCC Plane`
+
+`Layer 4 (Signal): Bottom Signal routing`
 <table>
   <tr>
     <td><img src="https://github.com/Nilay101/Mixed-Signal-Board-Design/blob/bab1862c16ad35a5d6e8c263587db0406e25521a/Images/Layer1.png"/></td>
