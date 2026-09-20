@@ -19,6 +19,7 @@ reference and clock, PGA 128, Sample Rate: 100SPS`
 DRV8701 motor Driver with Mosfet Bridge with ability to run 2 bi-directional motor with a power rating of 36W (12V, 3A)`
 
 > [Physical specification]
+> Dimensions: 75.00mm X 70.00mm
 
 ## 2.Block Diagram
 ![](https://github.com/Nilay101/Mixed-Signal-Board-Design/blob/6f48fad0da92dc2ec3374a7bc96cafcb16f029bb/Images/Schematic%20Block.PNG)
