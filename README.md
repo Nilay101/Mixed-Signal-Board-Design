@@ -1,7 +1,7 @@
-## Project Overview
+## 1. Project Overview
 This following project is a design of a Mixed Signal board design which consist of multipler perhiperals and communication protocols which is used by the microcontroller, with built in ADC and microhpone peripherals. In this project I have provided a design for Central Controller Board design. This can be used for multiple applications such as controller board for autonomous vehicals, Robotics, Defense mechanism, Industrial Machines etc.
 
-## Key specifications
+## 2. Key specifications
 > [Technical specification]
 
 * `Microcontroller and Debugger: 
@@ -21,13 +21,13 @@ DRV8701 motor Driver with Mosfet Bridge with ability to run 2 bi-directional mot
 > 75.00mm X 70.00mm
 > ![](https://github.com/Nilay101/Mixed-Signal-Board-Design/blob/8f16583b9da7b6e3dc37b1d930589bacfca944e1/Images/Dimensions.png)
 
-## 2.Block Diagram
+## 3. Block Diagram
 ![](https://github.com/Nilay101/Mixed-Signal-Board-Design/blob/6f48fad0da92dc2ec3374a7bc96cafcb16f029bb/Images/Schematic%20Block.PNG)
 
-## 3.Power Budget
+## 4. Power Budget
 ![](https://github.com/Nilay101/Mixed-Signal-Board-Design/blob/6f48fad0da92dc2ec3374a7bc96cafcb16f029bb/Images/Power%20Budget.PNG)
 
-## 4. Layer Stack
+## 5. Layer Stack
 ![](https://github.com/Nilay101/Mixed-Signal-Board-Design/blob/74ef40a205442ae5d97af97179a7f0ddcca79347/Images/Stackups.png)
 `Layer 1 (Signal): Top routing and component placement`
 
