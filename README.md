@@ -19,7 +19,7 @@ DRV8701 motor Driver with Mosfet Bridge with ability to run 2 bi-directional mot
 > [Physical specification]
 > Dimensions:
 > 75.00mm X 70.00mm
-> ![](https://github.com/Nilay101/Mixed-Signal-Board-Design/blob/cea92cd5136b66ddd60f3f0f14ad82e4e045e4f8/Images/PhysicalDim.png)
+> ![](https://github.com/Nilay101/Mixed-Signal-Board-Design/blob/8f16583b9da7b6e3dc37b1d930589bacfca944e1/Images/Dimensions.png)
 
 ## 2.Block Diagram
 ![](https://github.com/Nilay101/Mixed-Signal-Board-Design/blob/6f48fad0da92dc2ec3374a7bc96cafcb16f029bb/Images/Schematic%20Block.PNG)
